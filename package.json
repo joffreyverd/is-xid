@@ -1,0 +1,28 @@
+{
+  "name": "is-xid",
+  "version": "1.0.2",
+  "description": "A unique id checker for node.js",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "verbose": true
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joffreyverd/is-xid.git"
+  },
+  "keywords": [
+    "xid"
+  ],
+  "author": "Joffrey VERD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joffreyverd/is-xid/issues"
+  },
+  "homepage": "https://github.com/joffreyverd/is-xid#readme"
+}
