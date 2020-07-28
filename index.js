@@ -4,6 +4,11 @@
  * @return {bool} return true if the string is a XID
  */
 function isXid(str) {
+
+    if (typeof str !== 'string') {
+        return false;
+    }
+
     if (str.length !== 20) {
         return false;
     }
