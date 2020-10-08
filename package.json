@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/joffreyverd/is-xid/issues"
   },
-  "homepage": "https://github.com/joffreyverd/is-xid#readme"
+  "homepage": "https://github.com/joffreyverd/is-xid#readme",
+  "dependencies": {
+    "toml": "^3.0.0"
+  }
 }
